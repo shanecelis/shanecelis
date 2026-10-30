@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=shanecelis&theme=oldie&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.ryglcloud.net/?username=shanecelis&theme=oldie&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **shanecelis/shanecelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
